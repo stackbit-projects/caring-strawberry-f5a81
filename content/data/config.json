@@ -30,7 +30,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "/images/LogoBlack300pp.png"
     },
     "footer": {
         "has_nav": true,
