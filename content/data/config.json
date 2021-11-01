@@ -30,8 +30,7 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ],
-        "logo": "/images/LogoVector.svg"
+        ]
     },
     "footer": {
         "has_nav": true,
